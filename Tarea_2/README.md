@@ -1,3 +1,5 @@
+# Francisco Lopez 
+
 # Tarea_2_Paralelas
 
 Se pide realizar un algoritmo secuencial que multiplique matrices. Las matrices deberán ser recibidas desde un .txt
