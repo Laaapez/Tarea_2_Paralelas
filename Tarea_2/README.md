@@ -16,6 +16,6 @@ A traves de una terminal, se debe ingresar el siguiente comando para compilar el
 make
 # Ejecución
 
-Luego y solo luego de ser compilado, el proyecto se debe correr a traves del siguiente comando
+Luego y solo luego de ser compilado, el proyecto se debe correr a traves del siguiente comando:
 
 make exec
